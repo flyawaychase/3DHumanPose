@@ -9,7 +9,9 @@ This matlab code demo the 3D human pose estimation from single RGB image with gi
 
 ## Demo Videos
 Before start, check out the demo videos!
+
 https://www.youtube.com/watch?v=T_gEx7eQqEg
+
 https://www.youtube.com/watch?v=uGBKZ7QQlDI
 
 
