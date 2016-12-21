@@ -27,4 +27,5 @@ Usage:
  4. Change the input image in demo.m (line 26) and load your own 2D pose estimation (line 32)
 
 ## Reference
-
+3D Human Pose Estimation = 2D Pose Estimation + Matching
+http://arxiv.org/abs/1612.06524
