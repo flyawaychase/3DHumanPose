@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=uGBKZ7QQlDI
 ## Getting Started
 
 Download the 3D pose library from the following link:
-https://drive.google.com/file/d/0BxZCS0CAHYZpRjA2S1FsWDNhcEU/view?usp=sharing
+https://drive.google.com/file/d/0BxZCS0CAHYZpRjA2S1FsWDNhcEU/view?usp=sharing&resourcekey=0-sQrEU466ZG3Ty-ulY-cpaQ
 
 Usage:
  1. Open Matlab, set and include current directory to "Release", put "3D_library.mat" in "Release" folder
